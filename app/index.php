@@ -1,1 +1,3 @@
-testingen
+<?php
+echo 'Hallo';
+?>
